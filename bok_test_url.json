@@ -1,7 +1,7 @@
 {
   "name": "bok_test", 
   "symbol": "BB",
-  "uri": "https://raw.githubusercontent.com/asd123-c/bok/main/bok_test.json",
+  "uri": "POST https://raw.githubusercontent.com/asd123-c/bok/main/bok_test.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
