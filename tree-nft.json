@@ -11,5 +11,16 @@
         "area": 2,
         "quality": 1,
         "upper_limit_years": 8640000,
+        "grades": [
+            {
+                "tree_id": 1,
+                "grade": 1,
+                "grade_exp": 319,
+                "drought_tolerant": 37742,
+                "yield": 6,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },]
         }
         }
