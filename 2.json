@@ -10,7 +10,11 @@
         "kind": 8,
         "area": 2,
         "quality": 1,
-        "upper_limit_years": 8640000}
+        "upper_limit_years": 8640000
+    },  {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }
         
     
 }
