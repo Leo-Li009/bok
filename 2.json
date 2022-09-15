@@ -2,7 +2,7 @@
     "name": "2",
     "description": "",
     "image": "https://nft.projectforest.io/forest/png/tree/1.png",
-    "attributes": {
+    "attributes": [{
         "sys_id": 1,
         "user_id": 0,
         "tree_id": 1,
@@ -11,17 +11,10 @@
         "area": 2,
         "quality": 1,
         "upper_limit_years": 8640000,
-        "grades": [
-            {
-                "tree_id": 1,
-                "grade": 1,
-                "grade_exp": 319,
-                "drought_tolerant": 37742,
-                "yield": 6,
-                "leaf_consume": 0,
-                "o2_consume": 0,
-                "absorptive_power": 10000
-            }
-        ]
-    }
+        {"trait_type":"ID1","value":"19888"},
+    {"trait_type":"Fusion","value":0},
+    {"trait_type":"Genesis","value":0},
+    {"trait_type":"Parents 1","value":"Legendary Terra"},
+    {"trait_type":"Parents 2","value":"Aqua"},
+    }]
 }
