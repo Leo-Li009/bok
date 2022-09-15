@@ -1,0 +1,14 @@
+{
+    "name":"Drago Egg #19888",
+    "description":" EGG",
+    "image":"https://lok-nft.leagueofkingdoms.com/api/card/egg/19888",
+    "image_url":"https://lok-nft.leagueofkingdoms.com/api/card/egg/19888",
+    "attributes":[
+    {"trait_type":"ID","value":"19888"},
+    {"trait_type":"Fusion","value":0},
+    {"trait_type":"Genesis","value":0},
+    {"trait_type":"Parents 1","value":"Legendary Terra"},
+    {"trait_type":"Parents 2","value":"Aqua"}
+    ]
+    
+ }
