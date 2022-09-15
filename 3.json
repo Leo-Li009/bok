@@ -1,9 +1,17 @@
-{
-    "name":"Drago Egg #19888",
-    "description":" EGG",
 
-    "attributes":[
-   
+
+{
+    "name": "test",
+    "description": "attributes test",
+    "image": "https://nft.projectforest.io/forest/png/tree/1.png",
+    "attributes": [
+        { "trait_type": "Base", 
+      "value": "Starfish"},
+         {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }
     ]
+        
     
- }
+}
