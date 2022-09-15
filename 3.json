@@ -6,7 +6,8 @@
     "image": "https://nft.projectforest.io/forest/png/tree/1.png",
     "attributes": [
         {
-        "tree_id":10
+            "trait_type":"tree_id",
+        "value":10
         },
         { "trait_type": "Base", 
       "value": "Starfish"},
