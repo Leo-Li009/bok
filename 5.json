@@ -1,0 +1,289 @@
+{
+    "name": "1",
+    "description": "",
+    "image": "https://nft.projectforest.io/forest/png/tree/1.png",
+    "attributes": {
+        "type": 1,
+        "kind": 18,
+        "area": 3,
+        "quality": 1,
+        "upper_limit_years": 10368000,
+        "body": 0,
+        "grade": 0,
+        "exp": 0,
+        "years": 0,
+        "seed_count": 0,
+        "grades": [
+            {
+                "grade": 1,
+                "grade_exp": 289,
+                "drought_tolerant": 37743,
+                "yield": 6,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 2,
+                "grade_exp": 527,
+                "drought_tolerant": 53578,
+                "yield": 8,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 3,
+                "grade_exp": 674,
+                "drought_tolerant": 60227,
+                "yield": 8,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 4,
+                "grade_exp": 840,
+                "drought_tolerant": 81627,
+                "yield": 12,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 5,
+                "grade_exp": 1071,
+                "drought_tolerant": 95329,
+                "yield": 12,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 6,
+                "grade_exp": 1250,
+                "drought_tolerant": 97543,
+                "yield": 16,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 7,
+                "grade_exp": 1277,
+                "drought_tolerant": 106933,
+                "yield": 18,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 8,
+                "grade_exp": 1509,
+                "drought_tolerant": 124950,
+                "yield": 22,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 9,
+                "grade_exp": 1562,
+                "drought_tolerant": 131945,
+                "yield": 24,
+                "leaf_consume": 0,
+                "o2_consume": 400,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 10,
+                "grade_exp": 1739,
+                "drought_tolerant": 134233,
+                "yield": 34,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 11,
+                "grade_exp": 2003,
+                "drought_tolerant": 142208,
+                "yield": 37,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 12,
+                "grade_exp": 2066,
+                "drought_tolerant": 144225,
+                "yield": 38,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 13,
+                "grade_exp": 2066,
+                "drought_tolerant": 167769,
+                "yield": 40,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 14,
+                "grade_exp": 2379,
+                "drought_tolerant": 173358,
+                "yield": 50,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 15,
+                "grade_exp": 2413,
+                "drought_tolerant": 177426,
+                "yield": 55,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 16,
+                "grade_exp": 2527,
+                "drought_tolerant": 188130,
+                "yield": 55,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 17,
+                "grade_exp": 2592,
+                "drought_tolerant": 203618,
+                "yield": 67,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 18,
+                "grade_exp": 2795,
+                "drought_tolerant": 206439,
+                "yield": 76,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 19,
+                "grade_exp": 2858,
+                "drought_tolerant": 225088,
+                "yield": 84,
+                "leaf_consume": 0,
+                "o2_consume": 600,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 20,
+                "grade_exp": 2961,
+                "drought_tolerant": 225667,
+                "yield": 87,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 21,
+                "grade_exp": 3179,
+                "drought_tolerant": 228927,
+                "yield": 97,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 22,
+                "grade_exp": 3227,
+                "drought_tolerant": 249936,
+                "yield": 103,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 23,
+                "grade_exp": 3359,
+                "drought_tolerant": 253851,
+                "yield": 117,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 24,
+                "grade_exp": 3518,
+                "drought_tolerant": 262518,
+                "yield": 124,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 25,
+                "grade_exp": 3653,
+                "drought_tolerant": 265422,
+                "yield": 126,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 26,
+                "grade_exp": 3726,
+                "drought_tolerant": 276027,
+                "yield": 134,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 27,
+                "grade_exp": 3766,
+                "drought_tolerant": 281930,
+                "yield": 152,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 28,
+                "grade_exp": 3919,
+                "drought_tolerant": 292845,
+                "yield": 154,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 29,
+                "grade_exp": 4014,
+                "drought_tolerant": 294834,
+                "yield": 172,
+                "leaf_consume": 10,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            },
+            {
+                "grade": 30,
+                "grade_exp": 0,
+                "drought_tolerant": 308028,
+                "yield": 194,
+                "leaf_consume": 0,
+                "o2_consume": 0,
+                "absorptive_power": 10000
+            }
+        ]
+    }
+}
