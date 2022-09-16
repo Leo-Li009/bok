@@ -3,13 +3,7 @@
     "description": "",
     "image": "https://nft.projectforest.io/forest/png/tree/1.png",
     "attributes": {
-        "type": 1,
-        "kind": 18,
-        "area": 3,
-        "quality": 1,
-        "upper_limit_years": 10368000,
-        "body": 0,
-        "grade": 0,
+        
         "exp": 0,
         "years": 0,
         "seed_count": 0,
